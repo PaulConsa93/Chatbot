@@ -1,0 +1,42 @@
+[33mcommit 9c3e73cb7f1132d9ecbe95a55ce4cc9a20d6905c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: PaulConsa93 <paulconsa93@gmail.com>
+Date:   Thu May 16 01:22:27 2024 -0300
+
+    Added Markdown Structure
+
+[33mcommit ca677274c480d607d5aafab8a0f73fa8d80aedfe[m
+Author: PaulConsa93 <paulconsa93@gmail.com>
+Date:   Thu May 16 00:43:27 2024 -0300
+
+    Cleaned Readme
+
+[33mcommit 8f0ec672fbeb7f36e1cd189611701010bde38ad1[m
+Author: PaulConsa93 <paulconsa93@gmail.com>
+Date:   Thu May 16 00:42:06 2024 -0300
+
+    Edited readme
+
+[33mcommit 6ab507a94781e8c0323e8a79ecfd35b7fd5fe14e[m
+Merge: 3ee685d cde9fd7
+Author: PaulConsa93 <paulconsa93@gmail.com>
+Date:   Thu May 16 00:40:48 2024 -0300
+
+    Merge branch 'main' of https://github.com/PaulConsa93/InvestiBot
+
+[33mcommit 3ee685d8b2020def472624c7200952a05ecf431c[m[33m ([m[1;31morigin/Testing[m[33m, [m[1;32mTesting[m[33m, [m[1;32mTest[m[33m)[m
+Author: PaulConsa93 <paulconsa93@gmail.com>
+Date:   Wed May 15 23:43:29 2024 -0300
+
+    Added chatbot functionality
+
+[33mcommit cde9fd716cdd7289c2de255b3662986e8a03c8b0[m
+Author: PaulConsa93 <70976715+PaulConsa93@users.noreply.github.com>
+Date:   Wed May 15 23:10:22 2024 -0300
+
+    Initial commit
+
+[33mcommit 3fe6b758a8ed38a45a109bdeea807372c6687e1e[m
+Author: 0x-cygnet <bob@cygnetops.com>
+Date:   Fri Feb 2 10:43:02 2024 -0600
+
+    first commit

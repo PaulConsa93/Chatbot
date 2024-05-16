@@ -166,7 +166,7 @@ UPLOAD_URL=https://prod-upload-langchain.fly.dev
 
 OPENAI_API_KEY=
 
-REDIS_URI=redis://default:B5VFCpu2kJ1wGaZlyQYloZyr7Yzog2QJ@redis-12783.c278.us-east-1-4.ec2.redns.redis-cloud.com:12783
+REDIS_URI=
 
 PINECONE_API_KEY=721801c1-74d8-4f22-b861-2eca118f8792
 PINECONE_ENV_NAME=us-east-1

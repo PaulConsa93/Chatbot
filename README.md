@@ -52,7 +52,7 @@
 │   │   ├── api.py  
 │   │   ├── files.py  
 │   │   ├── hooks.py  
-├── client/ 
+├── client/  
 │   ├── build/  
 │   ├── src/  
 │   ├── static/  

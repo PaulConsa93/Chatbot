@@ -104,12 +104,6 @@ For more details or specific implementations, refer to the following files:
 - **Database Models and Interactions**: [`app/web/db/models/`](./app/web/db/models/)
 - **Flask Setup and Routing**: [`app/web/__init__.py`](./app/web/__init__.py)
 
- 
-
-* get_messages_by_conversation_id()
-* add_messages_to_conversation()
-* get_conversation_components()
-* set_conversation_components()
 # First Time Setup
 
 ## Using Pipenv 
